@@ -1,0 +1,23 @@
+[PropertyInfo]
+ANNOTE_MODE,int,false,false, , ,false,<default>
+COMPOSE_MODE,int,false,false, , ,false,<default>
+defaultToolBar,int,false,false, , ,true,<default>
+editableLabel,javax.swing.JLabel,false,false, , ,false,<default>
+frame,marttinterface.InterfaceFrame,false,false, , ,true,<default>
+JButtonCompose,javax.swing.JButton,false,false, , ,false,<default>
+JButtonHelp,javax.swing.JButton,false,false, , ,false,<default>
+JButtonMarkup,javax.swing.JButton,false,false, , ,false,<default>
+JButtonOpen,javax.swing.JButton,false,false, , ,false,<default>
+JButtonPurgeList,javax.swing.JButton,false,false, , ,false,<default>
+JButtonSaveToDepot,javax.swing.JButton,false,false, , ,false,<default>
+JToolBar,javax.swing.JToolBar,false,false, , ,false,<default>
+listController,marttinterface.ListController,false,false, , ,true,<default>
+listcontroller,marttinterface.ListController,false,false, , ,false,<default>
+refreshButton,javax.swing.JButton,false,false, , ,false,<default>
+status,String,false,false, , ,false,<default>
+uneditableLabel,javax.swing.JLabel,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

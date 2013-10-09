@@ -1,0 +1,25 @@
+[PropertyInfo]
+adderror,boolean,false,false, , ,false,<default>
+classPopup,javax.swing.JPopupMenu,false,false, , ,false,<default>
+defaultnewline,String,false,false, , ,false,<default>
+dirty,boolean,false,false, , ,false,<default>
+dirtyLabel,javax.swing.JLabel,false,false, , ,false,<default>
+dom2tree,marttinterface.DomToTreeModelAdapter,false,false, , ,false,<default>
+end,int,false,false, , ,false,<default>
+frame,marttinterface.InterfaceFrame,false,false, , ,false,<default>
+list,javax.swing.JList,false,false, , ,false,<default>
+listmodel,javax.swing.DefaultListModel,false,false, , ,false,<default>
+newline,String,false,false, , ,false,<default>
+records,java.util.Vector,false,false, , ,false,<default>
+selectedText,String,false,false, , ,false,<default>
+splitPane,javax.swing.JSplitPane,false,false, , ,false,<default>
+start,int,false,false, , ,false,<default>
+textPane,javax.swing.JTextPane,false,false, , ,false,<default>
+tree,javax.swing.JTree,false,false, , ,false,<default>
+treepath,javax.swing.tree.TreePath,false,false, , ,false,<default>
+treeScrollPane,javax.swing.JScrollPane,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

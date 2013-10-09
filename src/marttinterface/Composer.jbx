@@ -1,0 +1,11 @@
+[PropertyInfo]
+ec,visitor.ElementComposite,false,false, , ,false,<default>
+frame,marttinterface.InterfaceFrame,false,false, , ,false,<default>
+jtextpane,javax.swing.JTextPane,false,false, , ,false,<default>
+kb,knowledgebase.Composite,false,false, , ,false,<default>
+listcontroller,marttinterface.ListController,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

@@ -1,0 +1,18 @@
+[PropertyInfo]
+alg,String,false,false, , ,false,<default>
+evaluationmode,String,false,false, , ,false,<default>
+filenames,String[][],false,false, , ,false,<default>
+K,int,false,false, , ,false,<default>
+kblrp,String,false,false, , ,false,<default>
+kbsc,String,false,false, , ,false,<default>
+knowledge,knowledgebase.Composite,false,false, , ,false,<default>
+lrp,String,false,false, , ,false,<default>
+scores,java.util.ArrayList[],false,false, , ,false,<default>
+taxonhash,java.util.Hashtable,false,false, , ,false,<default>
+taxons,String[][],false,false, , ,false,<default>
+trainingfolder,String,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
